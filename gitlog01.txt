@@ -1,0 +1,47 @@
+commit c96a9cf55e5d45a644de13747e2622b3b80da254
+Author: Dmytro Lyakhovenko <d.lyakhovenko@gmail.com>
+Date:   Fri Sep 28 14:09:50 2018 +0300
+
+    Delete 2 - Знайомство з системами контролю версій.key.pdf
+
+commit d5b6e2fd6ebafec837b976b73838ab191a82ecad
+Author: Dmytro Lyakhovenko <d.lyakhovenko@gmail.com>
+Date:   Fri Sep 28 14:09:43 2018 +0300
+
+    Delete 2 - Знайомство з системами контролю версій (Homework).pages.pdf
+
+commit 746254a10e957e73d222d43bbfb3027134a86890
+Author: dmytrolyakhovenko <d.lyakhovenko@gmail.com>
+Date:   Fri Sep 28 14:07:11 2018 +0300
+
+    Welcome to IOS and xCode homework
+
+commit 34107d17e919a19a19877a8f20d8361894913e73
+Author: dmytrolyakhovenko <d.lyakhovenko@gmail.com>
+Date:   Fri Sep 28 14:05:34 2018 +0300
+
+    Welcome to IOS and xCode
+
+commit 90632c2f33a68e6e6deafbe3b6d242cad4f035e7
+Author: dmytrolyakhovenko <d.lyakhovenko@gmail.com>
+Date:   Fri Sep 28 13:52:21 2018 +0300
+
+    version-control system presentation homework
+
+commit f3365070ca786f7f1ebe1e916effd143f2896b9b
+Author: dmytrolyakhovenko <d.lyakhovenko@gmail.com>
+Date:   Fri Sep 28 13:51:14 2018 +0300
+
+    version-control system presentation
+
+commit 36e30a2d13d358f76a88544f4952715db81335ad
+Author: dmytrolyakhovenko <d.lyakhovenko@gmail.com>
+Date:   Fri Sep 28 13:49:37 2018 +0300
+
+    gitignore on board
+
+commit 42137fee89524b9638ccd9843714237b22b674b2
+Author: dmytrolyakhovenko <d.lyakhovenko@gmail.com>
+Date:   Fri Sep 28 13:48:00 2018 +0300
+
+    first commit
