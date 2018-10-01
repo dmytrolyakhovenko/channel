@@ -1,0 +1,23 @@
+commit 90632c2f33a68e6e6deafbe3b6d242cad4f035e7
+Author: dmytrolyakhovenko <d.lyakhovenko@gmail.com>
+Date:   Fri Sep 28 13:52:21 2018 +0300
+
+    version-control system presentation homework
+
+commit f3365070ca786f7f1ebe1e916effd143f2896b9b
+Author: dmytrolyakhovenko <d.lyakhovenko@gmail.com>
+Date:   Fri Sep 28 13:51:14 2018 +0300
+
+    version-control system presentation
+
+commit 36e30a2d13d358f76a88544f4952715db81335ad
+Author: dmytrolyakhovenko <d.lyakhovenko@gmail.com>
+Date:   Fri Sep 28 13:49:37 2018 +0300
+
+    gitignore on board
+
+commit 42137fee89524b9638ccd9843714237b22b674b2
+Author: dmytrolyakhovenko <d.lyakhovenko@gmail.com>
+Date:   Fri Sep 28 13:48:00 2018 +0300
+
+    first commit
